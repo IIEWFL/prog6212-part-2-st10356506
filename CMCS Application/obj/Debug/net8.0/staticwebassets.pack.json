@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CMCS Application.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CMCS Application.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\ADDB assignment 2.docx",
+      "PackagePath": "staticwebassets\\uploads\\ADDB assignment 2.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\ADDB7311 Practical Assignment 1 - ST10356506.docx",
+      "PackagePath": "staticwebassets\\uploads\\ADDB7311 Practical Assignment 1 - ST10356506.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\CLDV part 2.docx",
+      "PackagePath": "staticwebassets\\uploads\\CLDV part 2.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\CLDV6212 part 1.docx",
+      "PackagePath": "staticwebassets\\uploads\\CLDV6212 part 1.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Document1.docx",
+      "PackagePath": "staticwebassets\\uploads\\Document1.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\ICE 3.docx",
+      "PackagePath": "staticwebassets\\uploads\\ICE 3.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Ice 3 cldv.docx",
+      "PackagePath": "staticwebassets\\uploads\\Ice 3 cldv.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Ice 4 cldv.docx",
+      "PackagePath": "staticwebassets\\uploads\\Ice 4 cldv.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Ice1.docx",
+      "PackagePath": "staticwebassets\\uploads\\Ice1.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Main.docx",
+      "PackagePath": "staticwebassets\\uploads\\Main.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\POE2prog.docx",
+      "PackagePath": "staticwebassets\\uploads\\POE2prog.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\SAND assignment 2.docx",
+      "PackagePath": "staticwebassets\\uploads\\SAND assignment 2.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\SOEN ice task 1.docx",
+      "PackagePath": "staticwebassets\\uploads\\SOEN ice task 1.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\ST10356506.SAND6211 assignment 1.docx",
+      "PackagePath": "staticwebassets\\uploads\\ST10356506.SAND6211 assignment 1.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2023-11-08 224635.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2023-11-08 224635.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2023-11-09 001511.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2023-11-09 001511.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2023-11-09 002210.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2023-11-09 002210.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2023-11-13 172322.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2023-11-13 172322.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2024-10-01 213105.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-01 213105.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2024-10-01 232345.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-01 232345.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2024-10-01 232505.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-01 232505.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2024-10-01 232523.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-01 232523.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2024-10-01 232608.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-01 232608.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2024-10-01 232720.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-01 232720.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2024-10-05 203824.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-05 203824.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2024-10-06 201753.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-06 201753.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2024-10-06 202829.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-06 202829.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Screenshot 2024-10-14 104604.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2024-10-14 104604.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\Soen POE part 1.docx",
+      "PackagePath": "staticwebassets\\uploads\\Soen POE part 1.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\bursary.pdf",
+      "PackagePath": "staticwebassets\\uploads\\bursary.pdf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\ice 1 prog.docx",
+      "PackagePath": "staticwebassets\\uploads\\ice 1 prog.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\ice soen.docx",
+      "PackagePath": "staticwebassets\\uploads\\ice soen.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\ice task 1 cloud.docx",
+      "PackagePath": "staticwebassets\\uploads\\ice task 1 cloud.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\ice2 cldv.docx",
+      "PackagePath": "staticwebassets\\uploads\\ice2 cldv.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\icetask3cloud.docx",
+      "PackagePath": "staticwebassets\\uploads\\icetask3cloud.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\icetask4.docx",
+      "PackagePath": "staticwebassets\\uploads\\icetask4.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\prog.docx",
+      "PackagePath": "staticwebassets\\uploads\\prog.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\references-dbas6211test.docx",
+      "PackagePath": "staticwebassets\\uploads\\references-dbas6211test.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\soen ice 1.docx",
+      "PackagePath": "staticwebassets\\uploads\\soen ice 1.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\~$nglish.docx",
+      "PackagePath": "staticwebassets\\uploads\\~$nglish.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\~$t final draft (AutoRecovered).docx",
+      "PackagePath": "staticwebassets\\uploads\\~$t final draft (AutoRecovered).docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\~$t final draft with plagersm scan.docx",
+      "PackagePath": "staticwebassets\\uploads\\~$t final draft with plagersm scan.docx"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\prog6212-part-2-st10356506\\CMCS Application\\wwwroot\\uploads\\~$t final.docx",
+      "PackagePath": "staticwebassets\\uploads\\~$t final.docx"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CMCS Application.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CMCS Application.props",
+      "PackagePath": "build\\CMCS Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CMCS Application.props",
+      "PackagePath": "buildMultiTargeting\\CMCS Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CMCS Application.props",
+      "PackagePath": "buildTransitive\\CMCS Application.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
