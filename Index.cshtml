@@ -1,76 +1,31 @@
-﻿@model List<CMCS_Application.Models.Claim>
-
-    <div class="container my-4">
-        <h2 class="mb-4">Claim List</h2>
-        <p class="lead">Here you will be able to view all your claims and submit a new claim.</p>
-        <a href="@Url.Action("ClaimForm", "Claim")" class="btn btn-primary mb-3">Submit New Claim</a> 
-        <div class="row">
-
-@if (Model != null && Model.Any())
-{
-    <table class="table table-bordered table-striped">
-        <thead>
-            <tr>
-                <th>Claim ID</th>
-                <th>Lecturer Name</th>
-                <th>Email</th>
-                <th>Hours Worked</th>
-                <th>Hourly Rate</th>
-                <th>Total Amount</th>
-                <th>Status</th>
-                <th>Notes</th>
-                <th>Documents</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var claim in Model)
-            {
-                <tr>
-                    <td>@claim.ClaimId</td>
-                    <td>@claim.LecturerName</td>
-                    <td>@claim.LecturerEmail</td>
-                    <td>@claim.HoursWorked</td>
-                    <td>@claim.HourlyRate.ToString("C")</td>
-                    <td>@(claim.HoursWorked * claim.HourlyRate)</td>
-                    <td>
-                        @if (claim.Status == ClaimStatus.Pending)
-                        {
-                            <span class="badge bg-warning text-dark">Pending</span>
-               
-                        }
-                        else if (claim.Status == ClaimStatus.Approved)
-                        {
-                            <span class="badge bg-success text-white">Approved</span>
-                        }
-                        else if (claim.Status == ClaimStatus.Rejected)
-                        {
-                            <span class="badge bg-danger text-white">Rejected</span>
-                        }
-                    </td>
-
-                    <td>@claim.AdditionalNotes</td>
-                    <td>
-                        @if (claim.Documents != null && claim.Documents.Any())
-                        {
-                            <ul>
-                                @foreach (var doc in claim.Documents)
-                                {
-                                    <li>@Url.Content(doc)</li>
-                                }
-                            </ul>
-                        }
-                        else
-                        {
-                            <p>No documents uploaded</p>
-                        }
-                    </td>
-
-                </tr>
-            }
-        </tbody>
-    </table>
+﻿@{
+    ViewData["Title"] = "Home Page";
 }
-else
-{
-    <p>No claims have been submitted yet.</p>
-}
+
+<div class="text-center">
+    <h1>Welcome to the Contract Monthly Claim System (CMCS)</h1>
+
+    <p>
+        This system allows lecturers to submit claims for the hours worked, which are then reviewed and approved by coordinators and managers.
+    </p>
+
+    <hr />
+
+    <div>
+        <h3>Available Features</h3>
+        <ul>
+            <li><strong>Submit Claims:</strong> Lecturers can submit claims with necessary documents.</li>
+            <li><strong>Verify Claims:</strong> Programme Coordinators and Managers can process claims.</li>
+            <li><strong>View Claim History:</strong> Access a history of approved or rejected claims.</li>
+            <li><strong>Claim Status:</strong> Transparently track the status of pending claims.</li>
+            <li><strong>Submit Documents:</strong> Submit supporting documents for each claim.</li>
+        </ul>
+    </div>
+
+    <br />
+    <div>
+        <a class="btn btn-primary" href="@Url.Action("ClaimForm", "Claim")">Submit a New Claim </a>
+        
+        <a class="btn btn-secondary" href="@Url.Action("ClaimHistory", "Claim")">View Claim History</a>
+    </div>
+</div>
