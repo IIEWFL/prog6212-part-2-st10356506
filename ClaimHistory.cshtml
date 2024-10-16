@@ -1,0 +1,42 @@
+﻿@model List<Claim>
+
+    <h1>Claim History</h1>
+    <p>Here you will find previously processed claims</p>
+
+    <table class="table">
+        <tabehead>
+            <tr>
+                <th>ClaimID</th>
+                <th>Lecturer Name</th>
+                <th>Hours Worked</th>
+                <th>Total Amount</th>
+                <th>Status</th>
+            </tr>
+        </tabehead>
+       <tablebody>
+        @foreach(var claim in Model)
+        {
+            <tr>
+                <td>@claim.ClaimId</td>
+                <td>@claim.LecturerName</td>
+                <td>@claim.HoursWorked</td>
+                <td>@(claim.HoursWorked * claim.HourlyRate)</td>
+                <td>
+                    @if (claim.Status == ClaimStatus.Pending)
+                    {
+                        <span class="badge bg-warning text-dark">Pending</span>
+
+                    }
+                    else if (claim.Status == ClaimStatus.Approved)
+                    {
+                        <span class="badge bg-success text-white">Approved</span>
+                    }
+                    else if (claim.Status == ClaimStatus.Rejected)
+                    {
+                        <span class="badge bg-danger text-white">Rejected</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tablebody>
+    </table>
